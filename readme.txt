@@ -4,3 +4,4 @@ Git has mutable index called stage.
 Git tracks changes.
 My boss is a stupid man.
 -----------
+what?
