@@ -7,5 +7,4 @@ My boss is a stupid man.
 what?
 Creating a new branch is quick and simple.
 Test  --no-ff function.
-
-??
+what?
